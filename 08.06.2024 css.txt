@@ -1,0 +1,76 @@
+body{
+  background-color: grey
+  
+
+}
+h1{
+  color: darkblue;
+  text-decoration: underline;
+  font font-size: 60px;
+  border-style: solid;
+  text-align: center;
+}
+h3{
+  text-decoration: underline;
+  color: black;
+}
+img{
+  border-style:solid;
+  border-radius: 50px;
+}
+
+.list{
+  text-decoration: underline;
+}
+
+nav li a{
+  text-align: center;
+  color: white;
+  display: block;
+  padding: 16px;
+  
+}
+
+nav li{
+  float: left
+}
+
+nav ul{
+  background-color: black;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+img {
+width: 300px;
+
+}
+
+Table,th,td{
+border:1px solid border
+  
+}
+
+Th,td{
+Padding:5px;
+background-color: azure
+
+}
+
+Th{
+  text-align: left
+   
+}
+
+button {
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 4px 2px;
+  cursor: pointer;
+}

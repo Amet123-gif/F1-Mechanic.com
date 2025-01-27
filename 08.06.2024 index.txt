@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Website per mekanik</h1>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">Contact</a></li>
+      <li><a href="#">About</a></li>
+    </ul>        
+    <h3>Ky eshte website im i pare</h3>
+    <p>Ky website eshte per ata qe duan ta studijojn mekaniken</p>
+    <h3>Keto jan disa nga makinat qe lidhen me mekaniken</h3>
+    <p>1.Makina klasike</p>
+    <p>2.Makina sportive</p>
+    <p>3.Makina elektrike</p>
+    <p>Keto jan makinat tash do ti tregoj motorat</p>
+    <p>1.Motori classic</p>
+    <p>2.Motori sportiv</p>
+    <p>3.Motori elektrik</p>
+    <h3>Mekanika eshte pune e zoreshme ose e lodhur,Ne mekanik ti duhesh te kesh trure, ky profesion kerkohet ane e mban botes</h3>
+    <img src="caar.jpeg" alt="Image description" />
+    <img src="car.jpeg.jpeg" alt="Image description" />
+    <img src="mechanical-working-in-car.jpg" alt="Image description" />
+    <p>Mekanika kerkohet ne te githa vendet e botes.</p>
+    <p>1.Kerkohet ne Amerik</p>
+    <p>2.Kerkohet ne Novegji</p>
+    <p>3.Kerkohet ne Gjermani</p>
+    <p>4.Kerkohet ne Swiserland etj</p>
+    
+    <h3>Ja me qka punon nje makin </h3>
+    
+    <ul>
+      <li class="list">1.motorri i makines </li>
+      <li class="list">2.sistemi i frenimit</li>
+      <li class="list">3.kuti ingranazhesh manuale </li>
+      <li class="list">4.tufe makine</li>
+      <li class="list">5.motor dizel</li>
+      <li class="list">6.pezullim i makines</li>
+    </ul>
+    <h3>Ja me qka punon nje motor</h3>
+    <ul>
+      <li class="list">1.punon njejt si motori i makines</li>
+    </ul>
+    <h3> Motori Sportiv</h3>
+    <p>A motorcycle fairing is a shell placed over the frame of a motorcycle, especially racing motorcycles and sport bikes, to deflect wind and reduce air drag. The secondary functions are the protection of the rider from airborne hazards and wind-induced hypothermia and of the engine components in the case of an accident. A motorcycle windshield will usually be integrated into the design of the fairing.</p>
+    <a href="https://en.wikipedia.org/wiki/Sport_bike">Sport motorcycle</a>  
+    <img src="kawasaki.jpeg" alt="Image description" />
+    <h3>Motori klasik </h3>
+    <p>The Kawasaki Vulcan 900 Classic motorcycle (Model VN900B) is a mid-sized motorcycle cruiser made by Kawasaki, first introduced in 2006. The cycle follows the formula of a smaller yet capable engine fitted into a one-size up frame, a popular combination also in use by Honda, Suzuki, and Yamaha in their respective cruiser lines.</p>
+    <a href="https://en.wikipedia.org/wiki/Kawasaki_Vulcan_900_Classic">Classic motorcycle</a>
+    <img src="motor.jpg" alt="Image description" /> 
+    <h3>Motori elektrik</h3>
+    <p>lectric motorcycles and scooters are plug-in electric vehicles with two or three wheels. Power is supplied by a rechargeable battery that drives one or more electric motors. Electric scooters are distinguished from motorcycles by having a step-through frame, instead of being straddled. Electric bicycles are similar vehicles, distinguished by retaining the ability to be propelled by the rider pedaling in addition to battery propulsion.</p>
+    <a href="https://en.wikipedia.org/wiki/Electric_motorcycles_and_scooters">Electric Motorcycle</a>
+    <img src="elektro.jpeeg.jpg" alt="Image description" />
+    <h3>Tash do ti tregoj disa nga makinat klasike,sportive dhe elektrike</h3>
+    <h3>Makina klasike</h3>
+    <p>A classic car is typically an automobile 25 years or older; however, definitions vary.[note 1] A common theme is that of an older car of historical interest is collectible and tends to be restored rather than scrapped, though sometimes age is not a factor. Classic cars are often considered a subset of a broader category of "collector cars," including restored classic cars and newer exotic vehicles. A subset of classic cars are known as antique cars, manufactured before 1980, or vintage cars, manufactured before World War II.</p>
+    <a href="https://en.wikipedia.org/wiki/Classic_car">Classic car</a>
+    <img src="peugeot-jpg.jpg" alt="Image description" />
+    <h3>Makina sportive</h3>
+    <p>A sports car is a car designed with an emphasis on dynamic performance, such as handling, acceleration, top speed, the thrill of driving, and racing capability. Sports cars originated in Europe in early 1910s and are currently produced by many manufacturers around the world.
+
+      Definition
+      Definitions of sports cars often relate to how the car design is optimised for dynamic performance,[3][4] without any specific minimum requirements; both a Triumph Spitfire and Ferrari 488 Pista can be considered sports cars, despite vastly different levels of performance. Broader definitions of sports cars include cars "in which performance takes precedence over carrying capacity",[5] or that emphasise the "thrill of driving"[6] or are marketed "using the excitement of speed and the glamour of the (race)track"[7] However, other people have more specific definitions, such as "must be a two-seater or a 2+2 seater"[8] or a car with two seats only.[9][10]</p>
+    <a href="https://en.wikipedia.org/wiki/Sports_car">sport car</a>
+    <img src="lambo-jpeg.jpg" alt="Image description" />
+    <h3>Makina elekrtike</h3>
+    <p>Tesla was incorporated in July 2003 by Martin Eberhard and Marc Tarpenning as Tesla Motors. The company's name is a tribute to inventor and electrical engineer Nikola Tesla. In February 2004, Elon Musk joined as the company's largest shareholder and in 2008 he was named CEO. In 2008, the company began production of its first car model, the Roadster sports car, followed by the Model S sedan in 2012, the Model X SUV in 2015, the Model 3 sedan in 2017, the Model Y crossover in 2020, the Tesla Semi truck in 2022 and the Cybertruck pickup truck in 2023.</p>
+    <a href= "https://en.wikipedia.org/wiki/Electric_motorcycles_and_scooters">Tesla </a>
+    <img src="tesla-jpgg.jpg" alt="Image description" />
+    
+    <table>
+      <tr>
+        <th> Website? </th>
+        <th> Punoi? </th>
+        <th> Klasa? </th>
+      </tr>
+      <tr>
+        <td> Per Mekanik </td>      
+        <td> Amet Memeti </td>     
+        <td> IX-3 </td>
+      </tr>
+      
+      <a href="https://www.howacarworks.com">
+        <button> Click here! </button>
+      </a>
+
+  </body>
+</html>
